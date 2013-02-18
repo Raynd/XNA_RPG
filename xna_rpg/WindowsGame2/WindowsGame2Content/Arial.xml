@@ -1,0 +1,34 @@
+<!--
+The name of a system font, capitalisation
+is not required but is recommended.
+-->
+<FontName>Arial</FontName>
+ 
+<!--
+The size of the rendered text
+using the point-size system
+-->
+<Size>14</Size>
+ 
+<!--
+Number of pixels between each character
+when the text is rendered on the screen
+-->
+<Spacing>2</Spacing>
+ 
+<!--
+A style, allowed options include:
+"Regular", "Italic" and "Bold"
+-->
+<Style>Regular</Style>
+ 
+<!--
+Characters to be loaded and can
+be used within the text
+-->
+<CharacterRegions>
+   <CharacterRegion>
+      <Start>&#32;</Start>
+      <End>&#126;</End>
+   </CharacterRegion>
+</CharacterRegions>

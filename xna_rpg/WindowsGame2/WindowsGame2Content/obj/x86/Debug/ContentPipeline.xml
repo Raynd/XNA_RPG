@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Barbarian\attack_0.bmp</Source>
+      <Name>Barbarian\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_0.xnb</Output>
+      <Time>2011-12-13T02:21:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\attack_1.bmp</Source>
+      <Name>Barbarian\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_1.xnb</Output>
+      <Time>2011-12-13T02:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\attack_2.bmp</Source>
+      <Name>Barbarian\attack_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_2.xnb</Output>
+      <Time>2011-12-13T02:39:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_0.bmp</Source>
+      <Name>Barbarian\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_0.xnb</Output>
+      <Time>2011-12-13T02:02:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_1.bmp</Source>
+      <Name>Barbarian\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_1.xnb</Output>
+      <Time>2011-12-13T02:03:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_scaled.bmp</Source>
+      <Name>Barbarian\walk_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_scaled.xnb</Output>
+      <Time>2011-12-13T02:40:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\wind.bmp</Source>
+      <Name>Barbarian\wind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\wind.xnb</Output>
+      <Time>2011-12-13T03:04:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_0.bmp</Source>
+      <Name>ChampionOne\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_0.xnb</Output>
+      <Time>2011-12-09T01:19:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_1.bmp</Source>
+      <Name>ChampionOne\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_1.xnb</Output>
+      <Time>2011-12-09T01:20:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_2.bmp</Source>
+      <Name>ChampionOne\attack_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_2.xnb</Output>
+      <Time>2011-12-09T01:21:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_3.bmp</Source>
+      <Name>ChampionOne\attack_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_3.xnb</Output>
+      <Time>2011-12-09T01:21:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_4.bmp</Source>
+      <Name>ChampionOne\attack_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_4.xnb</Output>
+      <Time>2011-12-09T01:21:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_0.bmp</Source>
+      <Name>ChampionOne\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_0.xnb</Output>
+      <Time>2011-12-08T23:13:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_1.bmp</Source>
+      <Name>ChampionOne\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_1.xnb</Output>
+      <Time>2011-12-08T23:17:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_scaled.bmp</Source>
+      <Name>ChampionOne\walk_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_scaled.xnb</Output>
+      <Time>2011-12-09T01:25:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2011-12-12T17:52:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_0.png</Source>
+      <Name>Knight\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_0.xnb</Output>
+      <Time>2011-11-17T00:00:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_1.png</Source>
+      <Name>Knight\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_1.xnb</Output>
+      <Time>2011-11-17T00:00:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_2.png</Source>
+      <Name>Knight\attack_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_2.xnb</Output>
+      <Time>2011-11-17T01:20:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_3.png</Source>
+      <Name>Knight\attack_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_3.xnb</Output>
+      <Time>2011-11-17T01:22:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_0.png</Source>
+      <Name>Knight\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_0.xnb</Output>
+      <Time>2011-10-23T22:44:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_0_scaled.png</Source>
+      <Name>Knight\walk_0_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_0_scaled.xnb</Output>
+      <Time>2011-11-17T00:10:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_1.png</Source>
+      <Name>Knight\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_1.xnb</Output>
+      <Time>2011-10-23T22:46:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\thunder_1.bmp</Source>
+      <Name>Mage\thunder_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\thunder_1.xnb</Output>
+      <Time>2011-12-15T02:49:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\thunder_2.bmp</Source>
+      <Name>Mage\thunder_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\thunder_2.xnb</Output>
+      <Time>2011-12-15T02:49:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\thunder_3.bmp</Source>
+      <Name>Mage\thunder_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\thunder_3.xnb</Output>
+      <Time>2011-12-15T02:49:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\attack_0.png</Source>
+      <Name>Ranger\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\attack_0.xnb</Output>
+      <Time>2011-12-11T20:46:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\attack_1.png</Source>
+      <Name>Ranger\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\attack_1.xnb</Output>
+      <Time>2011-12-11T20:57:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_0.png</Source>
+      <Name>Ranger\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_0.xnb</Output>
+      <Time>2011-12-11T20:13:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_0_scaled.png</Source>
+      <Name>Ranger\walk_0_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_0_scaled.xnb</Output>
+      <Time>2011-12-11T20:46:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_1.png</Source>
+      <Name>Ranger\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_1.xnb</Output>
+      <Time>2011-12-11T20:55:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt.png</Source>
+      <Name>dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\dirt.xnb</Output>
+      <Time>2011-12-12T17:52:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2011-11-13T14:32:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>empty_square.png</Source>
+      <Name>empty_square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\empty_square.xnb</Output>
+      <Time>2011-11-14T13:33:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-11-15T17:22:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2011-10-31T18:55:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Popup_Background.png</Source>
+      <Name>Popup_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Popup_Background.xnb</Output>
+      <Time>2011-11-16T00:00:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>grass_background.png</Source>
+      <Name>grass_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\grass_background.xnb</Output>
+      <Time>2011-11-16T22:09:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MercenaryCamp\camp.bmp</Source>
+      <Name>MercenaryCamp\camp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MercenaryCamp\camp.xnb</Output>
+      <Time>2011-12-05T21:29:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>buyBackground.png</Source>
+      <Name>buyBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\buyBackground.xnb</Output>
+      <Time>2011-12-13T00:13:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\attack_0_2.bmp</Source>
+      <Name>Barbarian\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_0_2.xnb</Output>
+      <Time>2011-12-15T00:51:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\attack_1_2.bmp</Source>
+      <Name>Barbarian\attack_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_1_2.xnb</Output>
+      <Time>2011-12-15T00:49:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\attack_2_2.bmp</Source>
+      <Name>Barbarian\attack_2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\attack_2_2.xnb</Output>
+      <Time>2011-12-15T00:54:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_0_2.bmp</Source>
+      <Name>Barbarian\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_0_2.xnb</Output>
+      <Time>2011-12-15T00:52:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_1_2.bmp</Source>
+      <Name>Barbarian\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_1_2.xnb</Output>
+      <Time>2011-12-15T00:53:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Barbarian\walk_scaled_2.bmp</Source>
+      <Name>Barbarian\walk_scaled_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Barbarian\walk_scaled_2.xnb</Output>
+      <Time>2011-12-15T00:50:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_0_2.png</Source>
+      <Name>Knight\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_0_2.xnb</Output>
+      <Time>2011-12-15T00:20:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_1_2.png</Source>
+      <Name>Knight\attack_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_1_2.xnb</Output>
+      <Time>2011-12-15T00:23:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_2_2.png</Source>
+      <Name>Knight\attack_2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_2_2.xnb</Output>
+      <Time>2011-12-15T00:25:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\attack_3_2.png</Source>
+      <Name>Knight\attack_3_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\attack_3_2.xnb</Output>
+      <Time>2011-12-15T00:27:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_0_2.png</Source>
+      <Name>Knight\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_0_2.xnb</Output>
+      <Time>2011-12-15T00:14:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_0_scaled_2.png</Source>
+      <Name>Knight\walk_0_scaled_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_0_scaled_2.xnb</Output>
+      <Time>2011-12-15T00:17:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight\walk_1_2.png</Source>
+      <Name>Knight\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Knight\walk_1_2.xnb</Output>
+      <Time>2011-12-15T00:15:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\attack_0_2.png</Source>
+      <Name>Ranger\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\attack_0_2.xnb</Output>
+      <Time>2011-12-15T00:38:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_0_2.png</Source>
+      <Name>Ranger\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_0_2.xnb</Output>
+      <Time>2011-12-15T00:31:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_0_scaled_2.png</Source>
+      <Name>Ranger\walk_0_scaled_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_0_scaled_2.xnb</Output>
+      <Time>2011-12-15T00:34:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Ranger\walk_1_2.png</Source>
+      <Name>Ranger\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Ranger\walk_1_2.xnb</Output>
+      <Time>2011-12-15T00:32:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\attack_0.bmp</Source>
+      <Name>Mage\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\attack_0.xnb</Output>
+      <Time>2011-12-15T01:37:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\attack_0_2.bmp</Source>
+      <Name>Mage\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\attack_0_2.xnb</Output>
+      <Time>2011-12-15T01:37:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\attack_1.bmp</Source>
+      <Name>Mage\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\attack_1.xnb</Output>
+      <Time>2011-12-15T01:37:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\attack_1_2.bmp</Source>
+      <Name>Mage\attack_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\attack_1_2.xnb</Output>
+      <Time>2011-12-15T01:36:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_0.bmp</Source>
+      <Name>Mage\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_0.xnb</Output>
+      <Time>2011-12-15T01:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_0_2.bmp</Source>
+      <Name>Mage\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_0_2.xnb</Output>
+      <Time>2011-12-15T01:29:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_0_2_scaled.bmp</Source>
+      <Name>Mage\walk_0_2_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_0_2_scaled.xnb</Output>
+      <Time>2011-12-15T01:38:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_0_scaled.bmp</Source>
+      <Name>Mage\walk_0_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_0_scaled.xnb</Output>
+      <Time>2011-12-15T01:38:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_1.bmp</Source>
+      <Name>Mage\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_1.xnb</Output>
+      <Time>2011-12-15T01:33:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Mage\walk_1_2.bmp</Source>
+      <Name>Mage\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Mage\walk_1_2.xnb</Output>
+      <Time>2011-12-15T01:27:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background.bmp</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-12-16T05:55:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>empire.bmp</Source>
+      <Name>empire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\empire.xnb</Output>
+      <Time>2011-12-16T06:07:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>victory.bmp</Source>
+      <Name>victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\victory.xnb</Output>
+      <Time>2011-12-16T08:18:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_0_2.bmp</Source>
+      <Name>ChampionOne\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_0_2.xnb</Output>
+      <Time>2011-12-16T08:54:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_1_2.bmp</Source>
+      <Name>ChampionOne\attack_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_1_2.xnb</Output>
+      <Time>2011-12-16T08:55:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_2_2.bmp</Source>
+      <Name>ChampionOne\attack_2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_2_2.xnb</Output>
+      <Time>2011-12-16T08:56:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_3_2.bmp</Source>
+      <Name>ChampionOne\attack_3_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_3_2.xnb</Output>
+      <Time>2011-12-16T08:57:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\attack_4_2.bmp</Source>
+      <Name>ChampionOne\attack_4_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\attack_4_2.xnb</Output>
+      <Time>2011-12-16T08:58:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_0_2.bmp</Source>
+      <Name>ChampionOne\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_0_2.xnb</Output>
+      <Time>2011-12-16T08:50:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_1_2.bmp</Source>
+      <Name>ChampionOne\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_1_2.xnb</Output>
+      <Time>2011-12-16T08:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ChampionOne\walk_scaled_2.bmp</Source>
+      <Name>ChampionOne\walk_scaled_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ChampionOne\walk_scaled_2.xnb</Output>
+      <Time>2011-12-16T08:44:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\attack_0.bmp</Source>
+      <Name>Priest\attack_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\attack_0.xnb</Output>
+      <Time>2011-12-16T09:33:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\attack_0_2.bmp</Source>
+      <Name>Priest\attack_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\attack_0_2.xnb</Output>
+      <Time>2011-12-16T09:33:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\attack_1.bmp</Source>
+      <Name>Priest\attack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\attack_1.xnb</Output>
+      <Time>2011-12-16T09:34:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\attack_1_2.bmp</Source>
+      <Name>Priest\attack_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\attack_1_2.xnb</Output>
+      <Time>2011-12-16T09:33:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_0.bmp</Source>
+      <Name>Priest\walk_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_0.xnb</Output>
+      <Time>2011-12-16T09:21:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_0_2.bmp</Source>
+      <Name>Priest\walk_0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_0_2.xnb</Output>
+      <Time>2011-12-16T09:25:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_1.bmp</Source>
+      <Name>Priest\walk_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_1.xnb</Output>
+      <Time>2011-12-16T09:22:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_1_2.bmp</Source>
+      <Name>Priest\walk_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_1_2.xnb</Output>
+      <Time>2011-12-16T09:26:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_scaled_0.bmp</Source>
+      <Name>Priest\walk_scaled_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_scaled_0.xnb</Output>
+      <Time>2011-12-16T09:28:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\walk_scaled_2.bmp</Source>
+      <Name>Priest\walk_scaled_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\walk_scaled_2.xnb</Output>
+      <Time>2011-12-16T09:27:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\heal_0.bmp</Source>
+      <Name>Priest\heal_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\heal_0.xnb</Output>
+      <Time>2011-12-16T09:43:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\heal_1.bmp</Source>
+      <Name>Priest\heal_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\heal_1.xnb</Output>
+      <Time>2011-12-16T09:42:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Priest\heal_2.bmp</Source>
+      <Name>Priest\heal_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Priest\heal_2.xnb</Output>
+      <Time>2011-12-16T09:41:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2011-11-15T17:21:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2011-12-01T18:06:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2011-12-01T17:57:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FF7_victory.wav</Source>
+      <Name>FF7_victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\FF7_victory.xnb</Output>
+      <Time>2011-12-16T10:16:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>guiles_theme.wav</Source>
+      <Name>guiles_theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\guiles_theme.xnb</Output>
+      <Time>2011-12-16T11:00:44-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-13T00:02:52.7623393-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
